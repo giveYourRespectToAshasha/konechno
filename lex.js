@@ -12,3 +12,5 @@ console.log(hay);
 let sd = 1;
 delete sd;
 alert(sd);
+
+console.log('test2');
